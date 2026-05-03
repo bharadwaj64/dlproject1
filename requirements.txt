@@ -1,8 +1,0 @@
-numpy==1.23.5
-pandas==1.5.3
-matplotlib 
-seaborn
-tensorflow==2.15.0
-tensorboard 
-streamlit==1.32.0
-scikit-learn
